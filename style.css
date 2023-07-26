@@ -1,0 +1,25 @@
+body{
+    font-family: 'Archivo', sans-serif;
+}
+#highlight{
+    color: rgb(206, 95, 15);
+}
+.devide{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.devide img{
+    width: 100%;
+}
+h2{font-size: 35px;}
+p{font-size: 25px;}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(206, 95, 15);
+    padding: 10px 20px;
+    border-radius: 7px;
+    font-style: bold;
+    color: white;
+}
