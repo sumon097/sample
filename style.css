@@ -23,3 +23,18 @@ p{font-size: 25px;}
     font-style: bold;
     color: white;
 }
+  .top-banner{ 
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+  }
+  section{
+    height: 600px;
+
+}
+#portfolio{
+    text-align: center;
+}
+.v{width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;}
